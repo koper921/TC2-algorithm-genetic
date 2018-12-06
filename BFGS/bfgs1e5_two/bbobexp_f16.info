@@ -1,0 +1,15 @@
+funcId = 16, DIM = 2, Precision = 1.000e-08, algId = 'BFGS'
+% 0004 BFGS: [-5, 5]^n, max 100 independent restarts.
+data_f16/bbobexp_f16_DIM2.dat, 1:11580|1.8e+00, 2:12747|3.3e-02, 3:13089|1.7e+00, 4:12036|2.7e-01, 5:12870|5.7e-02, 4:12933|3.1e-01, 5:12765|2.0e-01
+funcId = 16, DIM = 3, Precision = 1.000e-08, algId = 'BFGS'
+% 0004 BFGS: [-5, 5]^n, max 100 independent restarts.
+data_f16/bbobexp_f16_DIM3.dat, 1:20856|1.5e+00, 2:21348|1.8e+00, 3:20696|4.8e+00, 4:19480|7.4e-01, 5:21080|1.9e+00, 4:20056|1.9e+00, 5:19936|1.1e+00
+funcId = 16, DIM = 5, Precision = 1.000e-08, algId = 'BFGS'
+% 0004 BFGS: [-5, 5]^n, max 100 independent restarts.
+data_f16/bbobexp_f16_DIM5.dat, 1:39954|8.2e+00, 2:39030|8.7e-01, 3:40578|7.2e+00, 4:41526|9.7e+00, 5:41082|4.9e+00, 4:38550|3.6e+00, 5:42030|7.0e+00
+funcId = 16, DIM = 10, Precision = 1.000e-08, algId = 'BFGS'
+% 0004 BFGS: [-5, 5]^n, max 100 independent restarts.
+data_f16/bbobexp_f16_DIM10.dat, 1:109329|1.1e+01, 2:113828|1.7e+01, 3:106326|1.5e+01, 4:114103|2.5e+01, 5:116204|1.7e+01, 4:111606|1.4e+01, 5:116028|1.9e+01
+funcId = 16, DIM = 20, Precision = 1.000e-08, algId = 'BFGS'
+% 0004 BFGS: [-5, 5]^n, max 100 independent restarts.
+data_f16/bbobexp_f16_DIM20.dat, 1:328020|2.1e+01, 2:305928|3.5e+01, 3:316050|3.9e+01, 4:318339|3.0e+01, 5:313635|3.5e+01, 4:322854|2.5e+01, 5:334509|2.6e+01

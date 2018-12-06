@@ -1,0 +1,3 @@
+funcId = 12, DIM = 40, Precision = 1.000e-08, algId = 'BFGS'
+% 0004 BFGS: [-5, 5]^n, max 100 independent restarts.
+data_f12/bbobexp_f12_DIM40.dat, 1:1075225|1.3e-06, 2:1120489|4.0e-07, 3:1087648|2.6e-05, 4:1152961|6.7e-08, 5:1105770|3.2e-06, 4:1182891|3.0e-07, 5:1114585|9.8e-07
